@@ -13,10 +13,7 @@ Since graduate study Dr. Huber’s professional career has been leadership roles
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
 [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=broman+kw)<br/>
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 [github](https://github.com/kbroman)<br/>
-[blog](https://kbroman.org/blog) <br/>
 he/him
 
 ---
@@ -36,8 +33,8 @@ he/him
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/MeatSpaceNeedle.jpg">
-            <img src="../assets/pics/MeatSpaceNeedle.jpg"
+        <a href="../assets/pics/MeatSpaceNeedle.JPG">
+            <img src="../assets/pics/MeatSpaceNeedle.JPG"
                   title="Jack Huber" alt="Jack Huber"/></a>
         </div>
     </div>
