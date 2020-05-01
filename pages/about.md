@@ -36,9 +36,9 @@ he/him
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../assets/pics/MeatSpaceNeedle.jpg">
+            <img src="../assets/pics/MeatSpaceNeedle.jpg"
+                  title="Jack Huber" alt="Jack Huber"/></a>
         </div>
     </div>
 </div>
