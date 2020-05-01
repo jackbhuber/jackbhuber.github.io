@@ -10,9 +10,9 @@ His early work in sociology (BA, Arizona State; MS, Virginia Tech) focused on re
 
 Since graduate study Dr. Huber’s professional career has been leadership roles in testing and research. For over ten years he served five Washington school districts as Director of Assessment. In that role he managed his districts’ administration of state-mandated high-stakes testing programs; implemented supplemental district testing programs and data warehouses; analyzed and reported the results of all student achievement tests; assessed the technical quality of all tests; evaluated the effectiveness of instructional programs; and provided professional development on best practices in testing and assessment, educational research, data quality, data visualization, and data-based educational decision-making. While working in education Dr. Huber pursued a research agenda focused on validity issues in educational assessments which he shared through numerous talks at professional conferences and publications in professional journals. In his recent work for the Catholic Church he managed its data stack and drew from his roots in the sociology of religion to conceptualize a research agenda to help the church with its mission in western Washington.
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[github](https://github.com/kbroman)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/JBH_CV_043020.pdf)<br/>
+[google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dUt-_9MAAAAJ)<br/>
+[github](https://github.com/jackbhuber)<br/>
 he/him
 
 ---
