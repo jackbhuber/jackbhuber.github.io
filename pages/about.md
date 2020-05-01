@@ -33,8 +33,8 @@ he/him
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/MeatSpaceNeedle.JPG">
-            <img src="../assets/pics/MeatSpaceNeedle.JPG"
+        <a href="../assets/pics/MeatSpaceNeedleSmall.jpeg">
+            <img src="../assets/pics/MeatSpaceNeedleSmall.jpeg"
                   title="Jack Huber" alt="Jack Huber"/></a>
         </div>
     </div>
