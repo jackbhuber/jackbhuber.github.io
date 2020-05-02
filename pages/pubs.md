@@ -7,8 +7,6 @@ description: Jack Hubers's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#works in progress">works in progress</a></li>
-            <li><a href="#unpublished manuscripts">unpublished manuscripts</a></li>
             <li><a href="#articles">articles</a></li>
             <li><a href="#reviews">reviews</a></li>
             <li><a href="#techreports">tech reports</a></li>
@@ -16,14 +14,6 @@ description: Jack Hubers's publications
         </ul>
     </div>
 </div>
-
-### <a name="works in progress"></a>works in progress
-
-Huber, J.B. Leaving Rome.
-
-### <a name="unpublished manuscripts"></a>unpublished manuscripts
-
-Huber, J.B. Developing indicators of parish vitality.
 
 ### <a name="articles"></a>journal articles
 
