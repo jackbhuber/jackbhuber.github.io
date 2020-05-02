@@ -16,7 +16,7 @@ description: Jack Hubers's publications
     </div>
 </div>
 
-### <a name="works in progress"></a>journal articles
+### <a name="works in progress"></a>works in progress
 
 Huber, J.B. Leaving Rome.
 
