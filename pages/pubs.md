@@ -21,7 +21,7 @@ Monpas-Huber, J.B. (2015). Just pressing buttons? Validity evidence for the STAR
 
 Monpas-Huber, J.B. (2011). Validity of college and career readiness assessments. <em>The WERA Educational Journal</em>, 4(1), pp. 10-12. Washington Educational Research Association (WERA) [![pdf](icons16/pdf-icon.png)](https://jackbhuber.files.wordpress.com/2020/04/validity-of-college-and-career-readiness-assessments.pdf)
 
-Monpas-Huber, J.B. (2010). Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State<. Journal of School Leadership, 20(2), pp. 208-237. [![pdf](icons16/pdf-icon.png)](https://journals.sagepub.com/doi/pdf/10.1177/105268461002000205)
+Monpas-Huber, J.B. (2010). Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State. Journal of School Leadership, 20(2), pp. 208-237. [![pdf](icons16/pdf-icon.png)](https://journals.sagepub.com/doi/pdf/10.1177/105268461002000205)
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Monpas-Huber, J.B. (2009). <a href="https://jackbhuber.files.wordpress.com/2020/04/aligning-district-and-state-assessments-to-measure-growth.pdf" target="_blank" rel="noreferrer noopener">Aligning district and state assessments to measure growth in achievement</a>. <em>The WERA Educational Journal</em>, 1(1), pp. 47-50. Washington Educational Research Association (WERA)</p>
