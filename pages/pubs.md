@@ -72,9 +72,7 @@ Monpas-Huber, J.B. (2013). <a href="https://jackbhuber.files.wordpress.com/2020/
 
 ### <a name="techreports"></a>technical reports
 
-**Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
-[![pdf (1.5M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
+Monpas-Huber, J.B. (2010). Technical Report: Scaling and Equating Curriculum-Based Mathematics Measures for Analysis of Growth. Shoreline Public Schools, Shoreline, WA [![pdf (1.5M)](icons16/pdf-icon.png)](https://jackbhuber.files.wordpress.com/2020/05/technical-report_-equatingscalingeasycbm.pdf)
 
 ### <a name="dissertation"></a>dissertation
 
