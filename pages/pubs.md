@@ -10,6 +10,7 @@ description: Jack Hubers's publications
             <li><a href="#works in progress">works in progress</a></li>
             <li><a href="#unpublished manuscripts">unpublished manuscripts</a></li>
             <li><a href="#articles">articles</a></li>
+            <li><a href="#reviews">reviews</a></li>
             <li><a href="#techreports">tech reports</a></li>
             <li><a href="#dissertation">dissertation</a></li>
         </ul>
@@ -31,10 +32,6 @@ Huber, J.B. Developing indicators of parish vitality.
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
 
 Monpas-Huber, J.B. (2015). <a href="https://jackbhuber.files.wordpress.com/2020/04/just-pressing-buttons.pdf" target="_blank" rel="noreferrer noopener">Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments</a>. <em>The WERA Educational Journal</em>, 8(1), pp. 39-44. Washington Educational Research Association (WERA)
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Monpas-Huber, J.B. (2013). <a href="https://jackbhuber.files.wordpress.com/2020/04/review-of-charlotte-danielson.pdf" target="_blank" rel="noreferrer noopener">Assessing teacher effectiveness: Charlotte Danielson's presentation at the December 2012 WERA Conference</a>. <em>The Standard Deviation Newsletter</em>, pp. 12-13. Washington Educational Research Association (WERA)</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Monpas-Huber, J.B. (2011). <a href="https://jackbhuber.files.wordpress.com/2020/04/validity-of-college-and-career-readiness-assessments.pdf" target="_blank" rel="noreferrer noopener">Validity of college and career readiness assessments</a>. <em>The WERA Educational Journal</em>, 4(1), pp. 10-12. Washington Educational Research Association (WERA)</p>
@@ -68,6 +65,10 @@ Diversity Outbred mice.
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
+
+### <a name="reviews"></a>reviews
+
+Monpas-Huber, J.B. (2013). <a href="https://jackbhuber.files.wordpress.com/2020/04/review-of-charlotte-danielson.pdf" target="_blank" rel="noreferrer noopener">Assessing teacher effectiveness: Charlotte Danielson's presentation at the December 2012 WERA Conference</a>. <em>The Standard Deviation Newsletter</em>, pp. 12-13. Washington Educational Research Association (WERA)
 
 ### <a name="techreports"></a>technical reports
 
