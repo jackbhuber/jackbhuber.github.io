@@ -17,19 +17,11 @@ description: Jack Hubers's publications
 
 ### <a name="articles"></a>journal articles
 
-Monpas-Huber, J.B. (2015). Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments. The WERA Educational Journal, 8(1), pp. 39-44. Washington Educational Research Association (WERA).
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
+Monpas-Huber, J.B. (2015). Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments</a>. <em>The WERA Educational Journal</em>, 8(1), pp. 39-44. Washington Educational Research Association (WERA) [![pdf](icons16/pdf-icon.png)](https://jackbhuber.files.wordpress.com/2020/04/just-pressing-buttons.pdf)
 
-Monpas-Huber, J.B. (2015). <a href="https://jackbhuber.files.wordpress.com/2020/04/just-pressing-buttons.pdf" target="_blank" rel="noreferrer noopener">Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments</a>. <em>The WERA Educational Journal</em>, 8(1), pp. 39-44. Washington Educational Research Association (WERA)
+Monpas-Huber, J.B. (2011). Validity of college and career readiness assessments. <em>The WERA Educational Journal</em>, 4(1), pp. 10-12. Washington Educational Research Association (WERA) [![pdf](icons16/pdf-icon.png)](https://jackbhuber.files.wordpress.com/2020/04/validity-of-college-and-career-readiness-assessments.pdf)
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Monpas-Huber, J.B. (2011). <a href="https://jackbhuber.files.wordpress.com/2020/04/validity-of-college-and-career-readiness-assessments.pdf" target="_blank" rel="noreferrer noopener">Validity of college and career readiness assessments</a>. <em>The WERA Educational Journal</em>, 4(1), pp. 10-12. Washington Educational Research Association (WERA)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Monpas-Huber, J.B. (2010). <a href="https://journals.sagepub.com/doi/pdf/10.1177/105268461002000205" target="_blank" rel="noreferrer noopener">Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State</a>. <em>Journal of School Leadership</em>, 20(2), pp. 208-237.</p>
-<!-- /wp:paragraph -->
+Monpas-Huber, J.B. (2010). Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State<. Journal of School Leadership, 20(2), pp. 208-237. [![pdf](icons16/pdf-icon.png)](https://journals.sagepub.com/doi/pdf/10.1177/105268461002000205)
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Monpas-Huber, J.B. (2009). <a href="https://jackbhuber.files.wordpress.com/2020/04/aligning-district-and-state-assessments-to-measure-growth.pdf" target="_blank" rel="noreferrer noopener">Aligning district and state assessments to measure growth in achievement</a>. <em>The WERA Educational Journal</em>, 1(1), pp. 47-50. Washington Educational Research Association (WERA)</p>
