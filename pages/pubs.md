@@ -7,16 +7,24 @@ description: Jack Hubers's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#works in progress">works in progress</a></li>
+            <li><a href="#unpublished manuscripts">unpublished manuscripts</a></li>
             <li><a href="#articles">articles</a></li>
             <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#dissertation">dissertation</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="articles"></a>journal articles
+### <a name="works in progress"></a>journal articles
 
-#### in preparation
+Huber, J.B. Leaving Rome.
+
+### <a name="unpublished manuscripts"></a>unpublished manuscripts
+
+Huber, J.B. Developing indicators of parish vitality.
+
+### <a name="articles"></a>journal articles
 
 **Huber JB** (2015) Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments. The WERA Educational Journal, 8(1), pp. 39-44. Washington Educational Research Association (WERA).(https://rescience.github.io/ten-years)
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
