@@ -22,6 +22,36 @@ description: Jack Hubers's publications
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
 
+Monpas-Huber, J.B. (2015). <a href="https://jackbhuber.files.wordpress.com/2020/04/just-pressing-buttons.pdf" target="_blank" rel="noreferrer noopener">Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments</a>. <em>The WERA Educational Journal</em>, 8(1), pp. 39-44. Washington Educational Research Association (WERA)
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Monpas-Huber, J.B. (2013). <a href="https://jackbhuber.files.wordpress.com/2020/04/review-of-charlotte-danielson.pdf" target="_blank" rel="noreferrer noopener">Assessing teacher effectiveness: Charlotte Danielson's presentation at the December 2012 WERA Conference</a>. <em>The Standard Deviation Newsletter</em>, pp. 12-13. Washington Educational Research Association (WERA)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Monpas-Huber, J.B. (2011). <a href="https://jackbhuber.files.wordpress.com/2020/04/validity-of-college-and-career-readiness-assessments.pdf" target="_blank" rel="noreferrer noopener">Validity of college and career readiness assessments</a>. <em>The WERA Educational Journal</em>, 4(1), pp. 10-12. Washington Educational Research Association (WERA)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Monpas-Huber, J.B. (2010). <a href="https://journals.sagepub.com/doi/pdf/10.1177/105268461002000205" target="_blank" rel="noreferrer noopener">Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State</a>. <em>Journal of School Leadership</em>, 20(2), pp. 208-237.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Monpas-Huber, J.B. (2009). <a href="https://jackbhuber.files.wordpress.com/2020/04/aligning-district-and-state-assessments-to-measure-growth.pdf" target="_blank" rel="noreferrer noopener">Aligning district and state assessments to measure growth in achievement</a>. <em>The WERA Educational Journal</em>, 1(1), pp. 47-50. Washington Educational Research Association (WERA)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">De Leeuw, H., &amp; Monpas-Huber, J.B. (2009). Achievement of English Language Learners. <em>Leadership Information</em>, 7(3), pp. 1-23. School Information and Research Service, Washington Association of School Administrators (WASA)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Monpas-Huber, J.B. (2008). <a href="https://jackbhuber.files.wordpress.com/2020/04/validity-issues-for-common-district-assessments.pdf" target="_blank" rel="noreferrer noopener">Validity issues for common district assessments</a>. <em>The Standard Deviation Newsletter</em>, pp. 20-29. Washington Educational Research Association (WERA)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Knapp, M.S., Swinnerton, J.A., Copland, M.A., &amp; Monpas-Huber, J.B. (2006). <a href="https://jackbhuber.files.wordpress.com/2020/04/data-informed-leadership-in-education.pdf" target="_blank" rel="noreferrer noopener">Data-informed leadership in education</a>. Seattle, WA: Center for the Study of Teaching and Policy, University of Washington.</p>
+<!-- /wp:paragraph -->
+
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice.
