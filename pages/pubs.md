@@ -27,7 +27,7 @@ Huber, J.B. Developing indicators of parish vitality.
 
 ### <a name="articles"></a>journal articles
 
-**Huber JB** (2015) Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments. The WERA Educational Journal, 8(1), pp. 39-44. Washington Educational Research Association (WERA).(https://rescience.github.io/ten-years)
+Monpas-Huber, J.B. (2015). Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments. The WERA Educational Journal, 8(1), pp. 39-44. Washington Educational Research Association (WERA).
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
 
