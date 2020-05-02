@@ -76,10 +76,6 @@ Monpas-Huber, J.B. (2013). <a href="https://jackbhuber.files.wordpress.com/2020/
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
 [![pdf (1.5M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
 
-### <a name="thesis"></a>dissertation
+### <a name="dissertation"></a>dissertation
 
-**Broman KW** (1997) Identifying quantitative trait loci in
-experimental crosses.  PhD dissertation, Department of Statistics,
-University of California, Berkeley
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf (653k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+Monpas-Huber, J.B. (2007). School context and motivation to use state assessment data as a resource for improving instruction: A multilevel study of high school teachers in Washington State.  PhD dissertation, College of Education, University of Washington, Seattle [![pdf (653k)](icons16/pdf-icon.png)](https://jackbhuber.files.wordpress.com/2020/05/jbh_dissertation.pdf)
