@@ -4,7 +4,7 @@ title: about
 description: Jack Huber is an applied researcher
 ---
 
-Dr. Jack Huber is a sociologist, psychometrician, and director of testing and research. His background is social science with extensive training in quantitative research methods. For nearly 20 years he has effectively applied tools from measurement, statistics and research design to the service of nonprofit organizations dedicated to the common good.
+Jack Huber is a sociologist, psychometrician, and director of testing and research. His background is social science with extensive training in quantitative research methods. For nearly 20 years he has effectively applied tools from measurement, statistics and research design to the service of nonprofit organizations dedicated to the common good.
 
 His early work in sociology (BA, Arizona State; MS, Virginia Tech) focused on religion and politics. His Master’s thesis, which sought to shed light on the political mobilization of conservative Christians in the 1980s, was a regression analysis of data from a national survey of Evangelical Christians. His subsequent doctoral work was in educational psychology (PhD, University of Washington) with a concentration in psychometrics. His doctoral dissertation (later published in the Journal of School Leadership) attempted to understand why high school teachers use data from a state achievement test to help their students. It was a multilevel analysis of data from a survey of high school teachers to assess the contextual influences of school leadership, collaboration, and high-stakes accountability pressure on teachers’ motivation to use assessment data.
 
