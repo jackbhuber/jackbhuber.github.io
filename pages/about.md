@@ -27,13 +27,11 @@ he/him
             Jack Huber<br/>
             Email: jack.bernard.huber@gmail.com</br>
             Phone: 206-947-9926</br>
-            </div>
         </div>
 
         <div class="span2">
         <a href="../assets/pics/MeatSpaceNeedleSmall.jpeg">
             <img src="../assets/pics/MeatSpaceNeedleSmall.jpeg"
                   title="Jack Huber" alt="Jack Huber"/></a>
-        </div>
     </div>
 </div>
