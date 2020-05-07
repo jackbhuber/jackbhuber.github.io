@@ -37,16 +37,6 @@ Monpas-Huber, J.B. (2010). Explaining high school teachers instructional use of 
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Knapp, M.S., Swinnerton, J.A., Copland, M.A., &amp; Monpas-Huber, J.B. (2006). <a href="https://jackbhuber.files.wordpress.com/2020/04/data-informed-leadership-in-education.pdf" target="_blank" rel="noreferrer noopener">Data-informed leadership in education</a>. Seattle, WA: Center for the Study of Teaching and Policy, University of Washington.</p>
-<!-- /wp:paragraph -->
-
-Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
-Identification of sample mix-ups and mixtures in microbiome data in
-Diversity Outbred mice.
-[bioRxiv](https://www.biorxiv.org/) doi:[10.1101/529040](https://doi.org/10.1101/529040)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/01/23/529040.full.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
-[![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
 ### <a name="reviews"></a>reviews
 
