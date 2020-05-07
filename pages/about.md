@@ -25,8 +25,8 @@ he/him
     <div class="row-fluid">
         <div class="span5">
             Jack Huber<br/>
-            Email: jack.bernard.huber@gmail.com
-            Phone: 206-947-9926
+            Email: jack.bernard.huber@gmail.com</br>
+            Phone: 206-947-9926</br>
             </div>
         </div>
 
