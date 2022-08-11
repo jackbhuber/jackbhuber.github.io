@@ -1,0 +1,36 @@
+---
+title: "Jack Huber"
+editor: visual
+about: 
+  template: trestles
+  image: me.png
+  image-width: 2in
+  image-shape: rectangle
+  links:
+    - icon: github
+      href: https://github.com/jackbhuber
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jackbhuber/
+    - icon: email
+      text: E-mail
+      href: mailto:jack.bernard.huber@gmail.com
+    - icon: CV
+      text: CV
+      href: CV.pdf
+---
+
+## Bio
+
+I currently serve the Clinical Pharmacy team of Providence Swedish Medical Center in the Puget Sound area.
+
+I also teach quantitative data analysis to doctoral candidates as a Adjunct Instructor for the College of Education at Gonzaga University.
+
+On the side I conduct my own research projects. I have abiding research interests in measurement validity, the sociology of religion, and political sociology. I also study theology and spirituality.
+
+On this site I keep a list of [my publications](https://www.mm218.dev/papers), [presentations](https://www.mm218.dev/talks), and [my CV](https://www.mm218.dev/cv.pdf).
+
+## Current Projects
+
+[Validation of the Spiritual Harm and Abuse Scale with the Rasch Rating Scale Analysis](jackhuber.org/SHAS)
+
+[Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1973-2018](https://public.tableau.com/views/RetentionTransitionandDisaffilationinAmericanChristianity/Title?:language=en-US&:display_count=n&:origin=viz_share_link)

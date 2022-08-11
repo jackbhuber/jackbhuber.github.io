@@ -1,0 +1,21 @@
+---
+title: "Jack Huber"
+editor: visual
+about: 
+  template: trestles
+  image: me.png
+  image-width: 2in
+  image-shape: rectangle
+---
+
+I've gone by different titles -- sociologist, data analyst, psychometrician, and Director of Assessment -- but the common thread is a commitment to quantitative research methods.
+
+My background is social science with extensive training in quantitative research methods. For nearly 20 years I've applied tools from measurement, statistics and research design to the service of nonprofit organizations.
+
+My early graduate work in sociology (BA, Arizona State; MS, Virginia Tech) focused on religion and politics. My later doctoral work was in educational psychology (PhD, University of Washington) with a concentration in psychometrics. My doctoral dissertation asked why high school teachers use data from a state achievement test to help their students. The study was a multilevel analysis of data from a survey of high school teachers to assess the contextual influences of school leadership, collaboration, and high-stakes accountability pressure on teachers' motivation to use assessment data. This work I published in the [Journal of School Leadership](https://journals.sagepub.com/doi/10.1177/105268461002000205).
+
+My professional career has featured leadership roles in testing and research. For over ten years I served five Washington school districts as Director of Assessment. In that role I oversaw state-mandated high-stakes testing programs; implemented district testing programs and data warehouses; analyzed and reported the results of all student achievement tests; studied the technical quality of all tests; evaluated the effectiveness of instructional programs; and provided professional development on best practices in testing and assessment, educational research, data quality, data visualization, and data-based decision-making.
+
+Based on this work I pursued a research agenda focused on validity issues in educational assessments. From this research came numerous studies which he presented at professional conferences and published in professional journals.
+
+I also served my profession at the state and national levels through active involvement in several professional associations. At the state level, I was for many years an active member of the Washington Educational Research Association (WERA) by helping to plan its conferences, editing its newsletter, and chairing its committee to award research grants. At the national level, I was a member of the National Council on Measurement in Education (NCME) and the National Association of Assessment Directors (NAAD), of which I was Secretary before serving a three-year term as President-Elect, President, and Past President.
